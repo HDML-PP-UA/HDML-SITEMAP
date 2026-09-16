@@ -217,6 +217,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2021-22</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/міжнародний-конкурс-юних-піаністів-імені-володимира-крайнєва</loc>
     <priority>0.6</priority>
   </url>
@@ -246,6 +250,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/акорди-хортиці</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2026-27</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -313,6 +321,10 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/13-06-2025-концерт-музика-при-свічках</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/26-05-2025-концерт-учнів-ніни-руденко</loc>
     <priority>0.55</priority>
   </url>
@@ -369,11 +381,11 @@
     <priority>0.55</priority>
   </url>
   <url>
-    <loc>https://www.hdml.pp.ua/події/2024-25/25-12-2024-орган-для-ліцею</loc>
+    <loc>https://www.hdml.pp.ua/події/2024-25/24-11-2024-третій-та-четвертий-концерти-фортепіанної-музики</loc>
     <priority>0.55</priority>
   </url>
   <url>
-    <loc>https://www.hdml.pp.ua/події/2024-25/24-11-2024-третій-та-четвертий-концерти-фортепіанної-музики</loc>
+    <loc>https://www.hdml.pp.ua/події/2024-25/25-12-2024-орган-для-ліцею</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -397,11 +409,15 @@
     <priority>0.55</priority>
   </url>
   <url>
-    <loc>https://www.hdml.pp.ua/події/2024-25/18-12-24-концерт-відділу-загального-та-спеціалізованого-фортепіано-хдмл</loc>
+    <loc>https://www.hdml.pp.ua/події/2025-26/15-10-2025-концерт-у-харківській-обласній-універсальній-науковій-бібліотеці</loc>
     <priority>0.55</priority>
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/29-08-2024-хай-музика-луна</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/18-12-24-концерт-відділу-загального-та-спеціалізованого-фортепіано-хдмл</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -453,11 +469,23 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/18-06-2025-концерт-учнів-диригентсько-хорового-відділу</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/xxii-міжнародний-конкурс-фестиваль-акорди-хортиці-2025</loc>
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/28-10-2025-підписання-угоди-про-співпрацю-між-харківським-державним-музични</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2023-24/01-05-24-відбувся-концерт-учнів-хдмл-та-школи-мистецтв-музика-єднає</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/20-09-2025-відомий-маестро-борис-гарлицький-підтримує-юних-музикантів-харко</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -466,6 +494,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/21-03-25-марафон-музики-й-с-баха-за-участі-учнів-випускників-та-виклад</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/23-10-2025-місячник-бібліотек</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -505,6 +537,10 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2026-27/1-вересня-2026</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/7-12-2024-мюзікл-дитячого-театру-єлизавети-авочарової-ніч-на-горищі</loc>
     <priority>0.55</priority>
   </url>
@@ -522,6 +558,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/21-11-24-концерт-в-рамках-фестивалю-музика-наш-спільний-дім</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/30-05-2025-концерт-арфової-музики-у-рамках-ukrainian-harp-festival-in-exil</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -601,6 +641,10 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/26-10-2025-скрипкові-мініатюри</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2023-24/концерт-у-добчице</loc>
     <priority>0.55</priority>
   </url>
@@ -617,6 +661,10 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/9-11-2025-концерт-української-народної-пісні</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2024-25/12-12-2024-звітній-концерт-учнів-ліцею</loc>
     <priority>0.55</priority>
   </url>
@@ -626,6 +674,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/міжнародний-проєкт-peace-music-freedom/2025/дозвілля/вільний-час</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/22-09-2025-вокальний-ансамбль-сонячні-промінці-отримав-вітання-з-франці</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -653,6 +705,10 @@
     <priority>0.55</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/події/2024-25/15-06-2025-концерт-у-місті-ліндау-швейцарія</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/події/2018-19/арфові-барви</loc>
     <priority>0.55</priority>
   </url>
@@ -674,6 +730,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/події/2023-24/майстерклас-лекція-члена-журі</loc>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/події/2025-26/єлизавета-рибалко-в-національному-проєкті-я-віртуоз</loc>
     <priority>0.55</priority>
   </url>
   <url>
@@ -770,6 +830,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/педагоги</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/фотоальбом-головна/2025-2026</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -889,6 +953,10 @@
     <priority>0.45</priority>
   </url>
   <url>
+    <loc>https://www.hdml.pp.ua/фотоальбом-головна/2025-2026/11-а</loc>
+    <priority>0.45</priority>
+  </url>
+  <url>
     <loc>https://www.hdml.pp.ua/фотоальбом-головна/2021-2022/11-б</loc>
     <priority>0.45</priority>
   </url>
@@ -934,6 +1002,10 @@
   </url>
   <url>
     <loc>https://www.hdml.pp.ua/фотоальбом-головна/2018-2019/11-а</loc>
+    <priority>0.45</priority>
+  </url>
+  <url>
+    <loc>https://www.hdml.pp.ua/фотоальбом-головна/2025-2026/11-б</loc>
     <priority>0.45</priority>
   </url>
   <url>
